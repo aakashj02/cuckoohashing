@@ -1,7 +1,7 @@
 # Cuckoo Hash Table (C++)
 
 ## What is Cuckoo Hashing?
-Imagine a cuckoo bird: instead of building its own nest, it kicks another bird's eggs out of an existing nest to claim it. 
+Imagine a cuckoo bird: instead of building its own nest, it kicks another bird's eggs out of an existing nest to claim it.
 
 This data structure uses the exact same logic for memory management. Every piece of data (a key-value pair) is given exactly **two** possible "nests" (indices in two separate arrays, calculated by two different hash functions). 
 1. If the first nest is empty, the data sits there.
