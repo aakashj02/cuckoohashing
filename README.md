@@ -37,9 +37,9 @@ we have included a separate `test.cpp` file demonstrating the O(1) insertions, l
 `./test_cuckoo`
 
 ## Contributors
-Aditya Raj (2024CSB1003)
-Anurag Raj (2024CSB1101)
-Aakash Jaisinghani (2024CSB1092)
+- Aditya Raj (2024CSB1003)
+- Anurag Raj (2024CSB1101)
+- Aakash Jaisinghani (2024CSB1092)
 
 ## References
 * **Original Research Paper:** [Cuckoo Hashing (2001)](https://www.brics.dk/RS/01/32/BRICS-RS-01-32.pdf) by Rasmus Pagh and Flemming Friche Rodler.
